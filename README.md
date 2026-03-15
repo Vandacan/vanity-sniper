@@ -1,2 +1,0 @@
-# vanity-sniper
-Vs kodudur
